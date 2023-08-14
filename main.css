@@ -1,0 +1,11 @@
+img {
+    display: block;
+    margin:  auto;
+    width: 25%;
+    }
+p {
+    text-align: center;
+    
+    font-size: 50px;
+    font-family: Times, Times New Roman, serif;
+    }
